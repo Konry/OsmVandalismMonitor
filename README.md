@@ -27,8 +27,8 @@ The OSM Change Monitor is a console-based application developed in C#, designed 
    ```bash
    git clone https://github.com/your-repo/osm-change-monitor-console.git
    Navigate to the cloned directory:
-  cd osm-change-monitor-console
-```
+  cd osm-change-monitor-console```
+
 ### Configuration
 Edit appsettings.json to configure your specific regions, entry types, and monitoring preferences.
 
